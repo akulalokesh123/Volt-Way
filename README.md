@@ -32,6 +32,8 @@ This design aims to be a **practical push toward solving one of the key challeng
 - Coordinated the team’s workflow and design iterations within Figma.
 
 ---
+<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/eef0da3f-a28e-44d0-a2ff-cadd74840ee2" />
+
 
 ## 🌟 Core Features
 
